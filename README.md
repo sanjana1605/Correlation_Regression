@@ -26,5 +26,6 @@ If y represents the dependent variable and x the independent variable, this rela
 
 # Result
 
-# Output :![image](https://github.com/sanjana1605/Correlation_Regression/assets/155608340/00dafebd-ebd8-4a78-8610-7945b63f41b2)
+# Output :
+![image](https://github.com/sanjana1605/Correlation_Regression/assets/155608340/391246b5-4fc0-4e68-a5f2-9f0913237c56)
 
